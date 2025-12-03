@@ -39,7 +39,7 @@ Optional:
 3D-printed stand
 LiPo battery for portable operation
 
-🛠 Software Requirements
+Software Requirements
 PlatformIO (VSCode extension recommended)
 Arduino framework
 Libraries (auto-installed by PlatformIO):
