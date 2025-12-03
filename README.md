@@ -51,7 +51,7 @@ HTTPClient
 
 Install & Build Instructions
 1. Clone this repo
-git clone https://github.com/<yourname>/mt15-m5core2-dashboard.git
+git clone https://github.com/joetansey1/Meraki-Sensors-to-ESP32-touschscreens.git
 cd mt15-m5core2-dashboard
 
 2. Open in VSCode + PlatformIO
